@@ -1,4 +1,4 @@
 module.exports = {
   transpileDependencies: true,
-  publicPath: process.env.NODE_ENV === "production" ? "/druggie/" : "/"
+  publicPath: process.env.NODE_ENV === "production" ? "/test-pwa-project/" : "/"
 }
